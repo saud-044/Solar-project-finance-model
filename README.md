@@ -46,7 +46,7 @@ No working capital or refinancing; straight-line tax depreciation; flat merchant
 ## Files
 
 - `Solar_Project_Finance_Model_v3.xlsx` - the full model
-- `Solar_Model_Summary.pdf` — 1-pager + sensitivity summary
+- [`Solar_Model_Summary.pdf`](https://github.com/saud-044/Solar-project-finance-model/blob/main/Solar_Model_Summary.pdf) — 1-pager + sensitivity summary
 
 ## Assumptions & sources
 
